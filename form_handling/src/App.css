@@ -1,0 +1,17 @@
+.app{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.cart_container{
+  display:flex;
+  justify-content:space-around;
+
+}
+.total_container{
+  display: flex;
+  flex-direction: column;
+  align-items:stretch;
+
+}

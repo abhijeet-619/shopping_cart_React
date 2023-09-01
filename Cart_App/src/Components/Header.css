@@ -1,0 +1,16 @@
+.heading{
+    display: flex;
+    font-size: larger;
+    justify-content: space-between;
+    background-color: rgb(105, 6, 132);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.heading div:hover{
+    cursor: pointer;
+}
+sup{
+   border-radius:10px;
+   padding-inline: 5px;
+    background-color: #a73232;
+}

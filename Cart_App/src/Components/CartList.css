@@ -1,0 +1,24 @@
+.cartlist{
+    display: flex;
+    border: solid #b0d759;
+}
+.listcontainer .cartlist{
+   margin-bottom: 20px;
+}
+#plus{
+    background-color: aquamarine;
+}
+.listcontainer p{
+font-size: 400%;
+color: aquamarine;
+background-color: #6c1693;
+padding: 25px;
+text-align: center;
+}
+#minus{
+   background-color: crimson;
+}
+span,button{
+    margin-left: 20px;
+    padding-block: 25px;
+}
